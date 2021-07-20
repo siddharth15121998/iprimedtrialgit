@@ -1,4 +1,3 @@
-a=10
+x=10
 b=20
-print(a+b)
-print("a")
+print(x-b)
